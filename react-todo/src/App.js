@@ -60,7 +60,7 @@ function App() {
           </div>
           <div className="flex justify-between">
             <button className="bg-blue-500 text-white px-6 py-2 rounded-lg">Save</button>
-            <button className="bg-gray-300 text-gray-700 px-6 py-2 rounded-lg">Cancel</button>
+            <button className="bg-gray-300 text-gray-700 px-6 py-2 rounded-lg"> Cancel</button>
           </div>
         </form>
       </div>
